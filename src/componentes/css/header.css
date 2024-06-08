@@ -1,0 +1,22 @@
+nav {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    position: fixed;
+    padding: 8px;
+    left: 0;
+    top: 0;
+}
+
+.inicio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: fit-content;
+    gap: 8px
+}
+
+.footer{
+    background-color: rgb(155, 255, 255);
+}
